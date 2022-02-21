@@ -1,0 +1,15 @@
+[kdeglobals][Icons]
+Theme=candy-icons
+
+[kcminputrc][Mouse]
+cursorTheme=Breeze_Snow
+
+[kdeglobals][General]
+ColorScheme=Catppuccin
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=Breeze
+
+[plasmarc][Theme]
+name=Sweet-mars
